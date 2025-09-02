@@ -1,7 +1,7 @@
 # Aneesh V R — Public CV (AI/ML · Quant Systems)
 
 **Email:** aneeshvis88@gmail.com  ·  **Location:** Thiruvananthapuram, Kerala, India  
-**LinkedIn:** linkedin.com/in/aneesh-v-r-57004b367 ·  **GitHub:** github.com/Aneesh88
+**LinkedIn:**  linkedin.com/in/aneesh-v-r-57004b367·  **GitHub:** github.com/Aneesh88
 
 ---
 
