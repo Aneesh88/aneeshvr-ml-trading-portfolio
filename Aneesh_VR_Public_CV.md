@@ -36,7 +36,7 @@ Preprint/manuscript link available.
 - Built discipline in procedure‑driven operations—transferrable to live trading runbooks.
 
 ## Selected Artifacts (links)
-- Project Overview (1‑page): `/mnt/data/Project_Overview_AI_Trading.md`  
+- Project Overview (1‑page): [`/mnt/data/Project_Overview_AI_Trading.md` ](https://github.com/Aneesh88/aneeshvr-ml-trading-portfolio#:~:text=AI%2DPowered%20Real%2DTime%20Trading%20System%20for%20Financial%20Markets%20Using%20Machine%20Learning.pdf) 
 - Project Report (PDF): [`/mnt/data/Aneesh_final_project_Report.pdf`](https://github.com/Aneesh88/aneeshvr-ml-trading-portfolio/blob/main/Aneesh_VR_AI_ML_Resume_2025.pdf)  
 - Paper / Preprint: [`/mnt/data/AI-Powered Real-Time Trading System for Financial Markets Using Machine Learning.pdf`
 ](https://github.com/Aneesh88/aneeshvr-ml-trading-portfolio/blob/main/AI-Powered%20Real-Time%20Trading%20System%20for%20Financial%20Markets%20Using%20Machine%20Learning.pdf)
