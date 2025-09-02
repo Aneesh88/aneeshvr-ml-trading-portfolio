@@ -37,7 +37,7 @@ Preprint/manuscript link available.
 
 ## Selected Artifacts (links)
 - Project Overview (1‑page): `/mnt/data/Project_Overview_AI_Trading.md`  
-- Project Report (PDF): `/mnt/data/Aneesh_final_project_Report.pdf`  
-- Paper / Preprint: `/mnt/data/AI-Powered Real-Time Trading System for Financial Markets Using Machine Learning.pdf`
-
+- Project Report (PDF): [`/mnt/data/Aneesh_final_project_Report.pdf`](https://github.com/Aneesh88/aneeshvr-ml-trading-portfolio/blob/main/Aneesh_VR_AI_ML_Resume_2025.pdf)  
+- Paper / Preprint: [`/mnt/data/AI-Powered Real-Time Trading System for Financial Markets Using Machine Learning.pdf`
+](https://github.com/Aneesh88/aneeshvr-ml-trading-portfolio/blob/main/AI-Powered%20Real-Time%20Trading%20System%20for%20Financial%20Markets%20Using%20Machine%20Learning.pdf)
 > This is a public CV version (no phone). Add a professional email + live links before sharing.
