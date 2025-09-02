@@ -13,12 +13,16 @@
 - Journaling: Full trade & runtime logs for review and iteration
 
 ## System at a glance
-[![System Architecture](./architecture_diagram.png)](https://github.com/Aneesh88/aneeshvr-ml-trading-portfolio#:~:text=architecture_diagram.png)
+https://github.com/Aneesh88/aneeshvr-ml-trading-portfolio/blob/main/architecture_diagram.png
+
 
 ## Key artifacts & links
-- Project report (PDF): [https://github.com/<you>/aneeshvr-ml-trading-portfolio/blob/main/Aneesh_final_project_Report.pdf](https://github.com/Aneesh88/aneeshvr-ml-trading-portfolio/blob/main/Aneesh_final_project_Report.pdf)
+
+- Project report (PDF):
+  https://github.com/Aneesh88/aneeshvr-ml-trading-portfolio/blob/main/Aneesh_final_project_Report.pdf
   
-- Paper / preprint (PDF): [https://github.com/Aneesh88/aneeshvr-ml-trading-portfolio/blob/main/AI-Powered%20Real-Time%20Trading%20System%20for%20Financial%20Markets%20Using%20Machine%20Learning.pdf](https://github.com/Aneesh88/aneeshvr-ml-trading-portfolio/blob/main/Aneesh_final_project_Report.pdf)
+- Paper / preprint (PDF): https://github.com/Aneesh88/aneeshvr-ml-trading-portfolio/blob/main/AI-Powered%20Real-Time%20Trading%20System%20for%20Financial%20Markets%20Using%20Machine%20Learning.pdf
   
- 
-- Public CV (MD): [https://github.com/<you>/aneeshvr-ml-trading-portfolio/blob/main/Aneesh_VR_Public_CV.md](https://github.com/Aneesh88/aneeshvr-ml-trading-portfolio#:~:text=4%20minutes%20ago-,Aneesh_VR_Public_CV.md,-Add%20files%20via)
+
+
+- Public CV (MD):https://github.com/Aneesh88/aneeshvr-ml-trading-portfolio/blob/main/Aneesh_VR_Public_CV.md
